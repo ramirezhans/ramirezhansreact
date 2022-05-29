@@ -1,0 +1,42 @@
+{
+  "main": {
+    "name":"HCGR",
+    "description":"Hello, my name is Hans. I specialize in Graphic Design, Photography, and Modeling. Thank you for taking the time to visit",
+    "image":"profilepic.jpg",
+    "bio":"I am Hans Christian G. Ramirez. You can call me Hans, and I was born on November 28, 2001. I am Twenty years old. My hobbies are editing, cycling, dancing, and playing online games. Being a hard-working person is one of my strengths or qualities. I am always giving my best to accomplish something and never give up on any problems I have encountered.",
+    "fullname":"Hans Christian G. Ramirez",
+    "birthday":"November 28, 2001",
+    "course":"BSIT-2C",
+    "contactmessage":"We'd Love to Hear From You.",
+    "email": "hcgr1001@gmail.com",
+    "phone": "+639494384488",
+    "project":"https://www.facebook.com/hans.rocks44/",
+    "github":"https://github.com/ramirezhans",
+    "address":{
+      "city":"Las Pinas, Metro Manila"
+    },
+    "website": "http://www.timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/hans.rocks44/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/_hcgr/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/channel/UCX2PXTTvqc8O7g4W4wSmbnA",
+        "className":"fa fa-youtube"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ramirezhans",
+        "className":"fa fa-github"
+      }
+    ]
+  }
+}
