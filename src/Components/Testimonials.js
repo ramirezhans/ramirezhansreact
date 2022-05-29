@@ -26,7 +26,7 @@ class Testimonials extends Component {
             </div>
 
             <div className="ten columns flex-container">
-              <ul className="slides">"Lol"</ul>
+              <ul className="slides">{testimonials}</ul>
             </div>
           </div>
         </div>
